@@ -1,0 +1,49 @@
+[2025-05-26 15:04:42] [Memory: 21.48 MB] Starting crypto utility session. Log file: crypto_log26.05.2025-15-04-42.log
+[2025-05-26 15:04:42] [Memory: 21.50 MB] Загрузка ключа...
+[2025-05-26 15:04:42] [Memory: 21.51 MB] Ключ загружен успешно!
+[2025-05-26 15:04:42] [Memory: 21.52 MB] 
+Processing file: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[2025-05-26 15:04:42] [Memory: 21.52 MB] Decrypting: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[2025-05-26 15:04:57] [Memory: 3325.57 MB] [DECRYPT] C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted: 1102.25 MB за 9.18 сек (120.12 MB/s)
+[2025-05-26 15:04:58] [Memory: 18.91 MB] Successfully decrypted: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[2025-05-26 15:04:58] [Memory: 18.94 MB] 
+Processing file: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[2025-05-26 15:04:58] [Memory: 18.94 MB] Decrypting: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[2025-05-26 15:06:34] [Memory: 2845.05 MB] [DECRYPT] C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted: 2842.44 MB за 70.52 сек (40.31 MB/s)
+[2025-05-26 15:06:35] [Memory: 3.17 MB] Successfully decrypted: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[2025-05-26 15:06:35] [Memory: 3.27 MB] 
+Processing file: C:\school\kripta\encryptfiles\png-1.encrypted
+[2025-05-26 15:06:35] [Memory: 3.28 MB] Decrypting: C:\school\kripta\encryptfiles\png-1.encrypted
+[2025-05-26 15:06:35] [Memory: 4.07 MB] [DECRYPT] C:\school\kripta\encryptfiles\png-1.encrypted: 0.00 MB за 0.02 сек (0.28 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.07 MB] Successfully decrypted: C:\school\kripta\encryptfiles\png-1.encrypted
+[2025-05-26 15:06:35] [Memory: 4.08 MB] 
+Processing file: C:\school\kripta\encryptfiles\testrar.encrypted
+[2025-05-26 15:06:35] [Memory: 4.09 MB] Decrypting: C:\school\kripta\encryptfiles\testrar.encrypted
+[2025-05-26 15:06:35] [Memory: 5.15 MB] [DECRYPT] C:\school\kripta\encryptfiles\testrar.encrypted: 0.20 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.14 MB] Successfully decrypted: C:\school\kripta\encryptfiles\testrar.encrypted
+[2025-05-26 15:06:35] [Memory: 4.16 MB] 
+Processing file: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[2025-05-26 15:06:35] [Memory: 4.17 MB] Decrypting: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[2025-05-26 15:06:35] [Memory: 4.33 MB] [DECRYPT] C:\school\kripta\encryptfiles\Война и Мир1.encrypted: 0.02 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.34 MB] Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[2025-05-26 15:06:35] [Memory: 4.34 MB] 
+Processing file: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[2025-05-26 15:06:35] [Memory: 4.35 MB] Decrypting: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[2025-05-26 15:06:35] [Memory: 4.37 MB] [DECRYPT] C:\school\kripta\encryptfiles\Война и Мир2.encrypted: 0.01 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.37 MB] Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[2025-05-26 15:06:35] [Memory: 4.37 MB] 
+Processing file: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[2025-05-26 15:06:35] [Memory: 4.37 MB] Decrypting: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[2025-05-26 15:06:35] [Memory: 4.40 MB] [DECRYPT] C:\school\kripta\encryptfiles\Война и Мир3.encrypted: 0.02 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.40 MB] Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[2025-05-26 15:06:35] [Memory: 4.41 MB] 
+Processing file: C:\school\kripta\encryptfiles\котэк.encrypted
+[2025-05-26 15:06:35] [Memory: 4.41 MB] Decrypting: C:\school\kripta\encryptfiles\котэк.encrypted
+[2025-05-26 15:06:35] [Memory: 4.68 MB] [DECRYPT] C:\school\kripta\encryptfiles\котэк.encrypted: 0.06 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.68 MB] Successfully decrypted: C:\school\kripta\encryptfiles\котэк.encrypted
+[2025-05-26 15:06:35] [Memory: 4.70 MB] 
+Processing file: C:\school\kripta\encryptfiles\котэк2.encrypted
+[2025-05-26 15:06:35] [Memory: 4.70 MB] Decrypting: C:\school\kripta\encryptfiles\котэк2.encrypted
+[2025-05-26 15:06:35] [Memory: 21.11 MB] [DECRYPT] C:\school\kripta\encryptfiles\котэк2.encrypted: 5.46 MB за 0.06 сек (93.20 MB/s)
+[2025-05-26 15:06:35] [Memory: 4.72 MB] Successfully decrypted: C:\school\kripta\encryptfiles\котэк2.encrypted
+[2025-05-26 15:06:35] [Memory: 4.74 MB] Directory processed successfully: C:\school\kripta\decryptfiles

@@ -1,0 +1,97 @@
+Генерация ключа шифрования...
+Ключ сгенерирован успешно!
+Ключ сохранен в файл: C:\school\kripta\encryption_key.json
+
+Processing file: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe
+Encrypting: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe -> C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[ENCRYPT] C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe: 1102.25 MB за 3.66 сек (301.08 MB/s)
+Successfully encrypted: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe
+
+Processing file: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso
+Encrypting: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso -> C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[ENCRYPT] C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso: 2842.44 MB за 67.62 сек (42.03 MB/s)
+Successfully encrypted: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso
+
+Processing file: C:\school\kripta\files\png-1.svg
+Encrypting: C:\school\kripta\files\png-1.svg -> C:\school\kripta\encryptfiles\png-1.encrypted
+[ENCRYPT] C:\school\kripta\files\png-1.svg: 0.00 MB за 0.01 сек (0.55 MB/s)
+Successfully encrypted: C:\school\kripta\files\png-1.svg
+
+Processing file: C:\school\kripta\files\testrar.rar
+Encrypting: C:\school\kripta\files\testrar.rar -> C:\school\kripta\encryptfiles\testrar.encrypted
+[ENCRYPT] C:\school\kripta\files\testrar.rar: 0.20 MB за 0.00 сек (0.00 MB/s)
+Successfully encrypted: C:\school\kripta\files\testrar.rar
+
+Processing file: C:\school\kripta\files\Война и Мир1.txt
+Encrypting: C:\school\kripta\files\Война и Мир1.txt -> C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[ENCRYPT] C:\school\kripta\files\Война и Мир1.txt: 0.02 MB за 0.00 сек (0.00 MB/s)
+Successfully encrypted: C:\school\kripta\files\Война и Мир1.txt
+
+Processing file: C:\school\kripta\files\Война и Мир2.txt
+Encrypting: C:\school\kripta\files\Война и Мир2.txt -> C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[ENCRYPT] C:\school\kripta\files\Война и Мир2.txt: 0.01 MB за 0.00 сек (0.00 MB/s)
+Successfully encrypted: C:\school\kripta\files\Война и Мир2.txt
+
+Processing file: C:\school\kripta\files\Война и Мир3.txt
+Encrypting: C:\school\kripta\files\Война и Мир3.txt -> C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[ENCRYPT] C:\school\kripta\files\Война и Мир3.txt: 0.02 MB за 0.00 сек (0.00 MB/s)
+Successfully encrypted: C:\school\kripta\files\Война и Мир3.txt
+
+Processing file: C:\school\kripta\files\котэк.jpg
+Encrypting: C:\school\kripta\files\котэк.jpg -> C:\school\kripta\encryptfiles\котэк.encrypted
+[ENCRYPT] C:\school\kripta\files\котэк.jpg: 0.06 MB за 0.00 сек (0.00 MB/s)
+Successfully encrypted: C:\school\kripta\files\котэк.jpg
+
+Processing file: C:\school\kripta\files\котэк2.png
+Encrypting: C:\school\kripta\files\котэк2.png -> C:\school\kripta\encryptfiles\котэк2.encrypted
+[ENCRYPT] C:\school\kripta\files\котэк2.png: 5.46 MB за 0.04 сек (130.77 MB/s)
+Successfully encrypted: C:\school\kripta\files\котэк2.png
+Directory processed successfully: C:\school\kripta\encryptfiles
+Загрузка ключа...
+Ключ загружен успешно!
+
+Processing file: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+Decrypting: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted: 1102.25 MB за 4.86 сек (226.82 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+Decrypting: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted: 2842.44 MB за 68.77 сек (41.34 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\png-1.encrypted
+Decrypting: C:\school\kripta\encryptfiles\png-1.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\png-1.encrypted: 0.00 MB за 0.01 сек (0.34 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\png-1.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\testrar.encrypted
+Decrypting: C:\school\kripta\encryptfiles\testrar.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\testrar.encrypted: 0.20 MB за 0.00 сек (0.00 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\testrar.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+Decrypting: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\Война и Мир1.encrypted: 0.02 MB за 0.01 сек (2.09 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+Decrypting: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\Война и Мир2.encrypted: 0.01 MB за 0.00 сек (0.00 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+Decrypting: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\Война и Мир3.encrypted: 0.02 MB за 0.00 сек (0.00 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\котэк.encrypted
+Decrypting: C:\school\kripta\encryptfiles\котэк.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\котэк.encrypted: 0.06 MB за 0.00 сек (46.34 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\котэк.encrypted
+
+Processing file: C:\school\kripta\encryptfiles\котэк2.encrypted
+Decrypting: C:\school\kripta\encryptfiles\котэк2.encrypted
+[DECRYPT] C:\school\kripta\encryptfiles\котэк2.encrypted: 5.46 MB за 0.03 сек (212.81 MB/s)
+Successfully decrypted: C:\school\kripta\encryptfiles\котэк2.encrypted
+Directory processed successfully: C:\school\kripta\decryptfiles

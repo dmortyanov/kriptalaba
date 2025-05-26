@@ -1,0 +1,50 @@
+[2025-05-26 15:01:57] [Memory: 21.21 MB] Starting crypto utility session. Log file: crypto_log26.05.2025-15-01-57.log
+[2025-05-26 15:01:57] [Memory: 21.23 MB] Генерация ключа шифрования...
+[2025-05-26 15:01:59] [Memory: 21.25 MB] Ключ сгенерирован успешно!
+[2025-05-26 15:01:59] [Memory: 21.26 MB] Ключ сохранен в файл: C:\school\kripta\encryption_key.json
+[2025-05-26 15:01:59] [Memory: 21.28 MB] 
+Processing file: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe
+[2025-05-26 15:02:15] [Memory: 21.33 MB] Encrypting: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe -> C:\school\kripta\encryptfiles\anylogic-ple-8.9.4.x86_64.encrypted
+[2025-05-26 15:02:23] [Memory: 3114.45 MB] [ENCRYPT] C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe: 1102.25 MB за 3.32 сек (332.06 MB/s)
+[2025-05-26 15:02:24] [Memory: 5.22 MB] Successfully encrypted: C:\school\kripta\files\anylogic-ple-8.9.4.x86_64.exe
+[2025-05-26 15:02:24] [Memory: 5.43 MB] 
+Processing file: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso
+[2025-05-26 15:02:32] [Memory: 6.48 MB] Encrypting: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso -> C:\school\kripta\encryptfiles\linuxmint-22.1-cinnamon-64bit.encrypted
+[2025-05-26 15:04:10] [Memory: 1889.13 MB] [ENCRYPT] C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso: 2842.44 MB за 60.29 сек (47.15 MB/s)
+[2025-05-26 15:04:12] [Memory: 3.45 MB] Successfully encrypted: C:\school\kripta\files\linuxmint-22.1-cinnamon-64bit.iso
+[2025-05-26 15:04:12] [Memory: 3.67 MB] 
+Processing file: C:\school\kripta\files\png-1.svg
+[2025-05-26 15:04:19] [Memory: 4.03 MB] Encrypting: C:\school\kripta\files\png-1.svg -> C:\school\kripta\encryptfiles\png-1.encrypted
+[2025-05-26 15:04:19] [Memory: 4.77 MB] [ENCRYPT] C:\school\kripta\files\png-1.svg: 0.00 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:04:19] [Memory: 4.78 MB] Successfully encrypted: C:\school\kripta\files\png-1.svg
+[2025-05-26 15:04:19] [Memory: 4.79 MB] 
+Processing file: C:\school\kripta\files\testrar.rar
+[2025-05-26 15:04:20] [Memory: 4.82 MB] Encrypting: C:\school\kripta\files\testrar.rar -> C:\school\kripta\encryptfiles\testrar.encrypted
+[2025-05-26 15:04:20] [Memory: 5.84 MB] [ENCRYPT] C:\school\kripta\files\testrar.rar: 0.20 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:04:20] [Memory: 4.84 MB] Successfully encrypted: C:\school\kripta\files\testrar.rar
+[2025-05-26 15:04:20] [Memory: 4.85 MB] 
+Processing file: C:\school\kripta\files\Война и Мир1.txt
+[2025-05-26 15:04:21] [Memory: 4.89 MB] Encrypting: C:\school\kripta\files\Война и Мир1.txt -> C:\school\kripta\encryptfiles\Война и Мир1.encrypted
+[2025-05-26 15:04:21] [Memory: 5.04 MB] [ENCRYPT] C:\school\kripta\files\Война и Мир1.txt: 0.02 MB за 0.01 сек (2.05 MB/s)
+[2025-05-26 15:04:21] [Memory: 5.05 MB] Successfully encrypted: C:\school\kripta\files\Война и Мир1.txt
+[2025-05-26 15:04:21] [Memory: 5.05 MB] 
+Processing file: C:\school\kripta\files\Война и Мир2.txt
+[2025-05-26 15:04:21] [Memory: 5.09 MB] Encrypting: C:\school\kripta\files\Война и Мир2.txt -> C:\school\kripta\encryptfiles\Война и Мир2.encrypted
+[2025-05-26 15:04:21] [Memory: 5.12 MB] [ENCRYPT] C:\school\kripta\files\Война и Мир2.txt: 0.01 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:04:21] [Memory: 5.12 MB] Successfully encrypted: C:\school\kripta\files\Война и Мир2.txt
+[2025-05-26 15:04:21] [Memory: 5.12 MB] 
+Processing file: C:\school\kripta\files\Война и Мир3.txt
+[2025-05-26 15:04:22] [Memory: 5.16 MB] Encrypting: C:\school\kripta\files\Война и Мир3.txt -> C:\school\kripta\encryptfiles\Война и Мир3.encrypted
+[2025-05-26 15:04:22] [Memory: 5.17 MB] [ENCRYPT] C:\school\kripta\files\Война и Мир3.txt: 0.02 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:04:22] [Memory: 5.17 MB] Successfully encrypted: C:\school\kripta\files\Война и Мир3.txt
+[2025-05-26 15:04:22] [Memory: 5.17 MB] 
+Processing file: C:\school\kripta\files\котэк.jpg
+[2025-05-26 15:04:23] [Memory: 5.18 MB] Encrypting: C:\school\kripta\files\котэк.jpg -> C:\school\kripta\encryptfiles\котэк.encrypted
+[2025-05-26 15:04:23] [Memory: 5.51 MB] [ENCRYPT] C:\school\kripta\files\котэк.jpg: 0.06 MB за 0.00 сек (0.00 MB/s)
+[2025-05-26 15:04:23] [Memory: 5.17 MB] Successfully encrypted: C:\school\kripta\files\котэк.jpg
+[2025-05-26 15:04:23] [Memory: 5.18 MB] 
+Processing file: C:\school\kripta\files\котэк2.png
+[2025-05-26 15:04:24] [Memory: 5.18 MB] Encrypting: C:\school\kripta\files\котэк2.png -> C:\school\kripta\encryptfiles\котэк2.encrypted
+[2025-05-26 15:04:24] [Memory: 21.58 MB] [ENCRYPT] C:\school\kripta\files\котэк2.png: 5.46 MB за 0.02 сек (274.57 MB/s)
+[2025-05-26 15:04:24] [Memory: 5.20 MB] Successfully encrypted: C:\school\kripta\files\котэк2.png
+[2025-05-26 15:04:24] [Memory: 5.21 MB] Directory processed successfully: C:\school\kripta\encryptfiles
